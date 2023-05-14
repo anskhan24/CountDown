@@ -1,4 +1,4 @@
-This is a Countdown App that allows user to create a countdown for the entered time,
+This is a Countdown App that allows user to create a countdown for the entered time
 
 It is created with simple HTML, CSS and JavaScript
 
